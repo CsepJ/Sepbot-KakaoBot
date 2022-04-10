@@ -1,0 +1,15 @@
+{
+    "main": "윤봇확대.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "debugRoom": {
+            "name": "봇세상",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "scriptPower": true
+    }
+}

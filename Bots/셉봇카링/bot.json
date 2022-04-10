@@ -1,0 +1,19 @@
+{
+    "main": "text.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "신나는 카카오톡 봇 게임",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "ignoreApiOff": true,
+        "targetMessengers": {
+            "com.kakao.talk": true
+        }
+    }
+}

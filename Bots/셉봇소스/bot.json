@@ -1,0 +1,19 @@
+{
+    "main": "윤봇소스.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "권수",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": true,
+            "packageName": "com.xfl.msgbot"
+        },
+        "ignoreApiOff": true,
+        "targetMessengers": {
+            "com.kakao.talk": true
+        }
+    }
+}
